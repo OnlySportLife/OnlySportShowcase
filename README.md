@@ -129,12 +129,6 @@ Since this is a showcase of a commercial product, this repository includes selec
 **Rostyslav**
 *Python Backend Engineer | Full-Stack Architect*
 
-[LinkedIn](https://www.google.com/search?q=%23) | [Email](https://www.google.com/search?q=%23) | [Portfolio](https://www.google.com/search?q=%23)
-
-```
-
-### 💡 Що зробити перед публікацією:
-1.  **Посилання на картинки:** Я залишив твої посилання на картинки (`https://github.com/user-attachments/assets/...`). Перевір, чи вони відкриваються. Якщо це посилання з приватного репо, вони можуть не спрацювати для інших. Найкраще — зберегти картинки в папку `/assets` у цьому новому репозиторії і змінити посилання на локальні (наприклад, `src="assets/map_view.png"`).
-2.  **Author:** Внизу, де "Author", встав свої реальні посилання на LinkedIn або пошту.
+[LinkedIn](https://www.linkedin.com/in/rnykyforchyn/) | [Email](rostykmr@gmail.com) | [Portfolio](https://www.google.com/search?q=%23)
 
 ```
