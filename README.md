@@ -130,5 +130,3 @@ Since this is a showcase of a commercial product, this repository includes selec
 *Python Backend Engineer | Full-Stack Architect*
 
 [LinkedIn](https://www.linkedin.com/in/rnykyforchyn/) | [Email](rostykmr@gmail.com) | [Portfolio](https://www.google.com/search?q=%23)
-
-```
