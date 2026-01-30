@@ -109,20 +109,6 @@ graph TD
 
 ---
 
-## 📂 Repository Structure
-
-Since this is a showcase of a commercial product, this repository includes selected high-impact modules:
-
-* `/backend_core`:
-* `smart_search.py` - Implementation of the cascading map search logic.
-* `models.py` - SQLAlchemy models showing complex relationships (User/Trainer/Exercise).
-* `ai_service.py` - Integration with OpenAI Vision.
-
-
-* `/mobile_architecture`:
-* `clean_arch_diagram.png` - Visual representation of the Flutter app structure.
-
-
 
 ## 👨‍💻 Author
 
