@@ -1,4 +1,3 @@
-```markdown
 # OnlySport – Next-Gen Social Fitness Ecosystem 🏋️‍♂️
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
