@@ -117,7 +117,7 @@ graph TD
 
 [LinkedIn](https://www.linkedin.com/in/rnykyforchyn/)
 
-**Arsen**
+**Arsenii**
 
 *Flutter Front-End Engineer | Full-Stack Architect*
 
