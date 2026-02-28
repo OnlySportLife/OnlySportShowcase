@@ -116,3 +116,9 @@ graph TD
 *Python Backend Engineer | Full-Stack Architect*
 
 [LinkedIn](https://www.linkedin.com/in/rnykyforchyn/)
+
+**Arsen**
+
+*Flutter Front-End Engineer | Full-Stack Architect*
+
+[LinkedIn](https://www.linkedin.com/in/arsen-venhreniuk/)
