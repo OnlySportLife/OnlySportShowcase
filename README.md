@@ -119,6 +119,6 @@ graph TD
 
 **Arsenii**
 
-*Flutter Front-End Engineer | Full-Stack Architect*
+*Flutter Front-End Engineer | Python Backend Engineer | FastAPI | Full-Stack Architect*
 
 [LinkedIn](https://www.linkedin.com/in/arsen-venhreniuk/)
